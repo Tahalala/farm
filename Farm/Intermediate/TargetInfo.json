@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Farm",
+			"Path": "C:\\Users\\hhixs\\OneDrive\\Documents\\GitHub\\farm\\Farm\\Source\\Farm.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FarmEditor",
+			"Path": "C:\\Users\\hhixs\\OneDrive\\Documents\\GitHub\\farm\\Farm\\Source\\FarmEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

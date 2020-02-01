@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Farm.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{DDC6D844-CF2F-49EA-8C62-F08F54021411}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Farm.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FarmEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{667F4BAC-484E-472C-B54F-1CFF1960AFB5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Farm">
+      <UniqueIdentifier>{AC6E8CDF-FC79-4D13-BE05-64FDB6B876DA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Farm\Farm.Build.cs">
+      <Filter>Source\Farm</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Farm\Farm.cpp">
+      <Filter>Source\Farm</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Farm\Farm.h">
+      <Filter>Source\Farm</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Farm\FarmCharacter.cpp">
+      <Filter>Source\Farm</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Farm\FarmCharacter.h">
+      <Filter>Source\Farm</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Farm\FarmGameMode.cpp">
+      <Filter>Source\Farm</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Farm\FarmGameMode.h">
+      <Filter>Source\Farm</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
